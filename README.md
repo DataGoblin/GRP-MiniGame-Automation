@@ -24,7 +24,7 @@ Lastly there is some very fancy GUI scripting with tkinter that gives us a very 
 ## Considerations
 This was tested on a screen size of 5120x1440, further tested at smaller window sizes like 2540x1440 and 1920x1080. I have not tested this in full screen or lesser resolutions. If you are playing on anything smaller, I recommend getting a job and upgrading to the modern era. 
 
-For best results, aim your camera in game towards the floor. This is based of the white pixel thresholding, if you aim your camera into the sky, it with definitely not operate well. 
+For best results, aim your camera in game towards the floor. This is because of the white pixel thresholding, if you aim your camera into the sky, it with definitely not operate well. 
 
 
 ## Support
