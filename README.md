@@ -1,6 +1,6 @@
 # REDM GoldrushRP Minigame Automation
 
-The minigame is similar to a popular arcade game called "pop the lock". This project aimed to automate it within the game with computer vision and some backseat bus seat math. 
+The minigame is similar to a popular arcade game called "pop the lock". This project aimed to automate it within the game with computer vision and some backseat bus math. 
 
 This project started purely based on a "I can probably automate this" thought. Along with my hatred for these lab rat tasks for reward mechanics that are lazy solutions to underlying problems.
 
@@ -30,7 +30,7 @@ For best results, aim your camera in game towards the floor. This is based of th
 ## Support
 I will not be offering any support if you encounter any issues. If googling can not help you, then you are doomed. 
 
-Updates may happen if I still play on the server and care enough. This was just a project to keep me entertaining. 
+Updates may happen if I still play on the server and care enough. This was just a project to keep me entertained. 
 
 
 ## Installation
